@@ -20,9 +20,6 @@ Capstone Project for Meta Back-End Developer Professional Certificate
 }
 ```
 
-```
-"auth_token": "d97425f313b51a532320538204fa3648f32ef8a4"
-{
-  "token": "da3b677447666e6d0ce6c78ce705ce32eb41f9c3"
-}
-```
+## Tests
+
+I have added changed the tests to SQLite so as that they run in memory and don't require messing around with MySQL permissions etc
